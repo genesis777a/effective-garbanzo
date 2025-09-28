@@ -715,12 +715,12 @@ These command line instructions will get you set up quickly with the latest Mini
 </Tabs>
 </Tab>
 >> end
-##
+##·
 ###----------------------------------->
--arraysTesting
-_accelerationCallibrat
-_black::red::white
-##
+* arraysTesting
+* accelerationCallibrat
+* black::red::white
+##·
 {https://www.anaconda.com/download/success}
 ##
 ✅✳️
