@@ -1,9 +1,13 @@
 [{empty-container🦠🪲}]
 ## VIRUS**
 []=[""|""|""]) >---
+###
 For recursive traverlsals coding --> laplace transforms & spatio-visual redefinition.
-Ethical Hacks!
-'''ts
+###
+Ethical Hack·ing!
+###
+###
+'''
 # Installing Miniconda 𓆨
 
 export const Danger = ({children}) => {
@@ -712,6 +716,10 @@ These command line instructions will get you set up quickly with the latest Mini
 </Tab>
 >> end
 ------------------------
-Because Python was a vaste of ⏱ur time!𓅓
+🪾Because Python was a vaste of ⏱ur time!𓅓
+###
+[]=[""|""|""]) >---
+###
 {https://www.anaconda.com/download/success}
+###
 ✅✳️
