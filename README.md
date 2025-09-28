@@ -10,7 +10,7 @@ For recursive traverlsals coding --> laplace transforms & spatio-visual redefini
 * 👁️‍🗨️computerVision-design
 * {https://www.anaconda.com/download/success}
 ###
-Ethical Hack·ing!
+Ethical Hacks Tips!
 ###
 ###
 *
@@ -720,5 +720,5 @@ These command line instructions will get you set up quickly with the latest Mini
   </Tab>
 </Tabs>
 </Tab>
->> /end
+> /end
 >> 🚱
