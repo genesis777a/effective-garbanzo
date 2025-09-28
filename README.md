@@ -715,13 +715,12 @@ These command line instructions will get you set up quickly with the latest Mini
 </Tabs>
 </Tab>
 >> end
-###
------------------------------------------
-###
-🪾Because Python was a vaste of ⏱ur time!𓅓
-###
-[]=[""|""|""]) >---
-###
+##
+###----------------------------------->
+-arraysTesting
+_accelerationCallibrat
+_black::red::white
+##
 {https://www.anaconda.com/download/success}
-###
+##
 ✅✳️
