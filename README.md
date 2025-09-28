@@ -13,7 +13,7 @@ For recursive traverlsals coding --> laplace transforms & spatio-visual redefini
 Ethical Hacks Tips!
 ###
 ###
-* ✳️❎
+* ✳️❎☑️
 # Installing Miniconda 𓆨
 
 export const Danger = ({children}) => {
