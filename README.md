@@ -1,13 +1,19 @@
-[{contamHandlers~plugg·in~noTEmpty-container🦠🪲}]
+[{contam-handlers-container🦠🪲}]
 ## VIRUS**
 []=[""|""|""]) >---
 ###
 For recursive traverlsals coding --> laplace transforms & spatio-visual redefinition.
+* accelerationCallibrat
+* * arraysTesting🪾pyTest
+  * TactLanguage^parser testing 
+* black::red::white
+* 👁️‍🗨️computerVision-design
+* {https://www.anaconda.com/download/success}
 ###
 Ethical Hack·ing!
 ###
 ###
-'''
+*
 # Installing Miniconda 𓆨
 
 export const Danger = ({children}) => {
@@ -714,13 +720,5 @@ These command line instructions will get you set up quickly with the latest Mini
   </Tab>
 </Tabs>
 </Tab>
->> end
-##·
-###----------------------------------->
-* arraysTesting
-* accelerationCallibrat
-* black::red::white
-##·
-{https://www.anaconda.com/download/success}
-##
-✅✳️
+>> /end
+>> 🚱
