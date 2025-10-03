@@ -42,7 +42,7 @@ This page contains basic Miniconda installation instructions for Windows, macOS,
 </Note>
 
 ## Basic install instructions
-
+{https://apps.apple.com/id/app/mantle-screen-master-expert/id1663437743}
 <AccordionGroup>
   <Accordion title="Windows installation">
     <div class="video">
