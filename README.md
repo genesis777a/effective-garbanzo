@@ -2,13 +2,14 @@
 ## VIRUS**
 []=[""|""|""]) >---
 ###
-For recursive traverlsals coding --> laplace transforms & spatio-visual redefinition.
+For recursive traversals coding --> laplace transforms & spatio-visual redefinition.
 * accelerationCallibrat
 * * arraysTesting🪾pyTest
   * TactLanguage^parser testing 
 * black::red::white
 * 👁️‍🗨️computerVision-design
-* {https://www.anaconda.com/download/success}
+* {https://www.anaconda.com/download}
+* {https://www.pygame.org/docs/}
 ###
 Ethical Hacks Tips!
 ###
